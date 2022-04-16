@@ -1,0 +1,41 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "fieldrain",
+		"player1": "bfbad",
+		"player2": "cupheadbad",
+		"player3": null,
+		"events": [
+			[
+				1764.70588235294,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5625,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				],
+				null,
+				"Parry Note"
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Knockout"
+	}
+}
