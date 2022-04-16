@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cuphead_standing instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-23
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				85
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-20
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-8
+			],
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				116
+			],
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hurt instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cup",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "cup",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		-100,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
